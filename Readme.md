@@ -1,7 +1,8 @@
-# Проект «Большое путешествие»
+# Личный проект «Большое путешествие»
 
-- Студент: [Дмитрий Лагутин](https://up.htmlacademy.ru/ecmascript/21/user/2256781).
-- Наставник: [Юлия Волкова](https://htmlacademy.ru/profile/id423707).
+* Студент: [Дмитрий Лагутин](https://up.htmlacademy.ru/ecmascript/21/user/2256781).
+* Наставник: [Юлия Волкова](https://htmlacademy.ru/profile/id423707).
+
 
 ---
 
@@ -11,7 +12,9 @@ _В проекте использованы следующие технолог�
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+
 ---
+
 
 ### Информация о проекте
 
